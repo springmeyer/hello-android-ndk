@@ -1,0 +1,9 @@
+.DS_Store
+libs
+obj
+bin
+*.log
+gen
+.settings
+*.swp
+*.~
