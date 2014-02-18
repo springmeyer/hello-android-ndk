@@ -1,4 +1,4 @@
-package com.springmeyer.hello_android_ndk;
+package com.springmeyer.hello;
 
 import android.os.Bundle;
 import android.app.Activity;

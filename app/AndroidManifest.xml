@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.springmeyer.hello_android_ndk"
+    package="com.springmeyer.hello"
     android:versionCode="1"
     android:versionName="1.0" >
     <uses-sdk
@@ -9,8 +9,8 @@
     <application
         android:allowBackup="true" >
         <activity
-            android:name="com.springmeyer.hello_android_ndk.MainActivity"
-            android:label="Hello Android NDK" >
+            android:name="com.springmeyer.hello.MainActivity"
+            android:label="com.springmeyer.hello" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
